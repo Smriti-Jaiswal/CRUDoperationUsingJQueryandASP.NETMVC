@@ -1,0 +1,165 @@
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\obj\Debug\FullCRUDImplementationWithJquery.csprojResolveAssemblyReference.cache
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\ApplicationInsights.config
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\csc.exe
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\System.Collections.Immutable.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\System.Reflection.Metadata.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\vbc.exe
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\VBCSCompiler.exe
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\VBCSCompiler.exe.config
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\FullCRUDImplementationWithJquery.dll.config
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\FullCRUDImplementationWithJquery.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\FullCRUDImplementationWithJquery.pdb
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Antlr3.Runtime.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\EntityFramework.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\EntityFramework.SqlServer.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.DependencyCollector.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.Web.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.WindowsServer.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.ApplicationInsights.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Google.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Web.Infrastructure.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Newtonsoft.Json.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Owin.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Helpers.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Mvc.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Optimization.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Razor.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.WebPages.Deployment.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.WebPages.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.WebPages.Razor.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\WebGrease.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.DependencyCollector.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.Web.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.WindowsServer.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.ApplicationInsights.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Helpers.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Mvc.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Optimization.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Razor.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.WebPages.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.WebPages.Deployment.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.WebPages.Razor.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Antlr3.Runtime.pdb
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Newtonsoft.Json.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\EntityFramework.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\EntityFramework.SqlServer.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Google.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\obj\Debug\FullCRUDImplementationWithJquery.dll
+D:\Smriti's Project\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\obj\Debug\FullCRUDImplementationWithJquery.pdb
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\ApplicationInsights.config
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\csc.exe
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\System.Collections.Immutable.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\System.Reflection.Metadata.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\vbc.exe
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\VBCSCompiler.exe
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\roslyn\VBCSCompiler.exe.config
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\FullCRUDImplementationWithJquery.dll.config
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\FullCRUDImplementationWithJquery.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\FullCRUDImplementationWithJquery.pdb
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Antlr3.Runtime.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\EntityFramework.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\EntityFramework.SqlServer.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.DependencyCollector.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.Web.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.WindowsServer.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.ApplicationInsights.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Google.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Web.Infrastructure.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Newtonsoft.Json.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Owin.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Helpers.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Mvc.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Optimization.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Razor.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.WebPages.Deployment.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.WebPages.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.WebPages.Razor.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\WebGrease.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.DependencyCollector.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.Web.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AI.WindowsServer.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.ApplicationInsights.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Helpers.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Mvc.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Optimization.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.Razor.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.WebPages.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.WebPages.Deployment.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\System.Web.WebPages.Razor.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Antlr3.Runtime.pdb
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Newtonsoft.Json.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\EntityFramework.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\EntityFramework.SqlServer.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Google.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\obj\Debug\FullCRUDImplementationWithJquery.csproj.CoreCompileInputs.cache
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\obj\Debug\FullCRUDImplementationWithJquery.dll
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\obj\Debug\FullCRUDImplementationWithJquery.pdb
+D:\FullCRUDImplementationWithJquery\FullCRUDImplementationWithJquery\obj\Debug\FullCRUDImplementationWithJquery.csproj.CopyComplete
